@@ -29,6 +29,9 @@ EDV allocation ratio: 36.98% (anualized volatility: 17.03%, performance: 5.63%)
 
 Checking against Portfolio Visualizer: ![](UPRO_VOO_EDV.png)
 
+## Manual Rebalancing
+For those who must manually rebalance to the nearest whole shares due to limitations on their brokerage account, continue the script with entering your current holdings. It will calculate how many shares you will need to buy/sell for each symbol.
+
 ## Note
 
 Data source: https://finance.yahoo.com/quote/VOO/history?p=VOO -> Historical Data -> Download Data
